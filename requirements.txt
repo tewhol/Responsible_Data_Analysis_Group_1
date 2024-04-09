@@ -7,3 +7,6 @@ seaborn
 dash
 openpyxl
 scikit-learn
+lime
+shap
+xgboost
