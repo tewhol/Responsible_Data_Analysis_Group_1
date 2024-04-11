@@ -1,0 +1,6 @@
+Test,Statistic,P-Value,Comments
+ANOVA,488.98,1.03169e-148,Significant difference across Levels
+Kruskal-Wallis,456.46,7.59884e-100,Significant distribution difference across Levels
+Pearson Correlation (Genetic Risk & Occupational Hazards),0.893,0.0,Strong positive relationship
+Pearson Correlation (Alcohol Use & Genetic Risk),0.877,2.7193e-320,Strong positive relationship
+Spearman's Rank Correlation (Alcohol use & Genetic Risk),0.848,8.24777e-278,Strong positive association
