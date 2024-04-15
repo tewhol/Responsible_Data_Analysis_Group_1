@@ -10,3 +10,4 @@ scikit-learn
 lime
 shap
 xgboost
+aequitas
