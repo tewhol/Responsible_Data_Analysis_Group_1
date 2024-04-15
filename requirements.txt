@@ -11,3 +11,4 @@ lime
 shap
 xgboost
 aequitas
+ipython
